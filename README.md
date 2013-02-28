@@ -1,23 +1,23 @@
 LeapMotion-VLCController
 ========================
 
-A pythonscript that controls VLC
+A pythonscript that controls VLC<br \>
 
-This script works with a Leap
-https://www.leapmotion.com/
+This script works with a Leap<br \>
+https://www.leapmotion.com/<br \>
 
-As stated in LeapMotion's tutorial you need to copy
-Sample.py, Leap.py, LeapPython.pyd and Leap.dll
-to the directory of the script (windows)
-or
-Sample.py, Leap.py, LeapPython.so and libLeap.dylib
-to the directory of the script (OS X)
+As stated in LeapMotion's tutorial you need to copy<br \>
+Sample.py, Leap.py, LeapPython.pyd and Leap.dll<br \>
+to the directory of the script (windows)<br \>
+or<br \>
+Sample.py, Leap.py, LeapPython.so and libLeap.dylib<br \>
+to the directory of the script (OS X)<br \>
 
-Instructions:
-swipe right for next song
-swipe left for previous song
-swipe up for volume up
-swipe down for volume down
-key/screen tap to toggle pause
+Instructions:<br \>
+swipe right for next song<br \>
+swipe left for previous song<br \>
+swipe up for volume up<br \>
+swipe down for volume down<br \>
+key/screen tap to toggle pause<br \>
 
 Sidenote: the script edits your VLC settings file
