@@ -7,7 +7,7 @@ This script works with a Leap<br \>
 https://www.leapmotion.com/<br \>
 
 As stated in LeapMotion's tutorial you need to copy<br \>
-Sample.py, Leap.py, LeapPython.pyd and Leap.dll<br \>
+Leap.py, LeapPython.pyd and Leap.dll<br \>
 to the directory of the script (windows)<br \>
 
 Instructions:<br \>
